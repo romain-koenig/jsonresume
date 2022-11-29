@@ -1,0 +1,19 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romain-koenig/jsonresume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romain-koenig/jsonresume/issues"
+  },
+  "homepage": "https://github.com/romain-koenig/jsonresume#readme"
+}
