@@ -1,0 +1,300 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Romain KOENIG",
+		"label": "Coordinateur de projets informatiques / web (freelance)",
+		"image": "",
+		"email": "romain@kromatic.fr",
+		"phone": "",
+		"url": "https://kromatic.fr",
+		"summary": "Passionné depuis toujours par les nouvelles technologies et convaincu de la valeur ajoutée qu’elles peuvent représenter pour notre société, je suis ingénieur en informatique depuis 15 ans.\n\nMon parcours varié m’a permis d’évoluer au sein de structures diverses, de la TPE au grand groupe et d’expérimenter les différents métiers de l’informatique (édition de progiciels, intégration de solutions, projets d’informatique interne, projets WWeb, management d'équipes).\n\nAu cours de ma carrière, j’ai toujours particulièrement apprécié servir mes clients organisés en structures à taille humaine. Professions libérales, jeunes pousses ou PME, j’aime découvrir l’univers de chacun et les aider à avancer dans leur dynamique malgré les nombreux obstacles qui se dressent sur leur chemin.\nMon constat ?\n\nDans de nombreuses TPE/PME, le système d’information évolue de manière anarchique.\n\nDe nombreux prestataires interviennent, mais chacun sur un périmètre restreint : infogérant, webmaster, community manager, éditeurs de progiciels (ERP, logiciel de comptabilité ou autres), fournisseur d’accès, de téléphonie ou encore de matériel d’impression…\n\nEt bien souvent, il manque une stratégie et une vision d’ensemble. Il n’y a ni schéma directeur, ni gestion de projets.\nLes sujets informatiques sont parfois délégués à des personnes dont ce n’est pas le métier, ce qui empiète sur leur quotidien. D’autres fois, on fait confiance à un prestataire qui est juge et partie, car il vend le conseil, le logiciel et le matériel…\n\nPourtant, la plupart des dirigeants de TPE / PME sont pleinement conscients des risques que représente une mauvaise gestion de leur système d’information. Beaucoup ont également l’intuition ou la conviction que l’informatique peut être un levier de performance essentiel pour leur société. Mais ce n’est pas leur métier, ils ont besoin d’un référent sur qui s’appuyer.\n\nVous vous reconnaissez ? Je suis là pour vous aider.\n",
+		"location": {
+			"countryCode": "FR",
+			"address": "France"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "romainkoenig",
+				"url": "https://www.linkedin.com/in/romainkoenig/"
+			},
+			{
+				"network": "Mastodon",
+				"username": "@romaink@masto.ai",
+				"url": "https://masto.ai/@romaink"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Kromatic",
+			"position": "Fondateur",
+			"startDate": "2019-09-01",
+			"summary": "Accompagnement de clients dans leurs projets informatiques / web. Voir Portfolio.",
+			"highlights": [
+				"Création de la structure Kromatic au sein de la Coopérative d'Activité Graines de SOL"
+			],
+			"url": "https://www.linkedin.com/company/kromatic-fr/",
+			"location": "Région de Lyon, France"
+		},
+		{
+			"name": "Pernod Ricard",
+			"position": "IT Project Manager",
+			"startDate": "2020-09-01",
+			"highlights": [],
+			"summary": "Coordination des projets de l'équipe IT Architecture.",
+			"url": "https://www.linkedin.com/company/pernod-ricard/",
+			"location": "Lyon, Auvergne-Rhône-Alpes, France"
+		},
+		{
+			"name": "FIDUCIAL",
+			"position": "Responsable des Professional Services",
+			"startDate": "2018-09-01",
+			"endDate": "2019-04-30",
+			"highlights": [],
+			"url": "https://www.linkedin.com/company/fiducial/",
+			"location": "Région de Lyon, France"
+		},
+		{
+			"name": "Dicma",
+			"position": "Responsable Technique et Projets",
+			"startDate": "2015-01-01",
+			"endDate": "2018-08-31",
+			"highlights": [],
+			"summary": "Management de l'équipe technique en charge des sujets suivants :\n- Installations clientèle\n- Hotline technique\n- Formations utilisateurs\nEncadrement des projets de mise en place des solutions de dictée numérique et reconnaissance vocale en clientèle (milieu médical et juridique).\nGestion des projets de développement informatiques\nEncadrement du SAV (réparations hardware)",
+			"url": "https://www.linkedin.com/company/dicma/"
+		},
+		{
+			"name": "Alliade Habitat",
+			"position": "Chef de projets informatiques",
+			"startDate": "2013-01-01",
+			"endDate": "2014-12-31",
+			"highlights": [],
+			"summary": "En responsabilité du domaine fonctionnel \"Gestion locative\" au sein du GIE Amallia Systèmes d'Information\nMise en place de modules du progiciel métier (tests, paramétrage, formations utilisateurs)\nEncadrement de développements informatiques",
+			"url": "https://www.linkedin.com/company/alliadehabitat/",
+			"location": "L"
+		},
+		{
+			"name": "DICMA",
+			"position": "Chef de projets informatiques",
+			"startDate": "2012-01-01",
+			"endDate": "2012-12-31",
+			"highlights": [],
+			"summary": "Mise en place d'outils de dictée numérique et de reconnaissance vocale en environnement médical et juridique\nIntégration logicielle dans les SI des clients\nEncadrement de projets de développement informatiques sous traités\nRédaction de réponses à appel d'offres & soutenances\nParticipation aux salons\nFormations utilisateurs",
+			"url": "https://www.linkedin.com/company/dicma/"
+		},
+		{
+			"name": "Sopra Steria",
+			"position": "Développeur - Chef de projets informatiques",
+			"startDate": "2006-02-01",
+			"endDate": "2011-12-31",
+			"highlights": [],
+			"summary": "Travail au sein de la division Immobilier, Agence IKOS (progiciel destiné aux bailleurs sociaux)\n\nProjets et missions\n\n2011 Chef de projet – mise en place d’un Extranet pour les locataires des bailleurs sociaux\nEncadrement d'une équipe de 7 personnes\nBudget = 700 jours.\n\n2010 Chef de projet - développement d’un module Extranet Diagnostics. Budget = 350 jours.\nDéfinition d'une nouvelle architecture technique pour les modules Extranet de la division Immobilier.\n\n2009 Responsable adjoint de l'entité \"Modules et évolutions\" - réalisation d'études préalables et d'études techniques (mobilité, production documentaire, ETL, intégration avec produits de LAD/RAD, plans techniques...), rédaction de devis, surpilotage de projets, reporting à la direction d'agence. Budget annuel de l'entité = 1200 jours\n\n2006-2008 Chef de projets courts (20 à 50 jours)\nDéveloppeur - développements Java, Framework Struts et C#, Framework .NET\n\nContacts clients\n- Participation aux journées de rencontre avec les clients (\"Journées IKOS\") : animation d'ateliers\n- Participations à des groupes de travail",
+			"url": "https://www.linkedin.com/company/soprasteria/"
+		},
+		{
+			"name": "Infineon Technologies",
+			"position": "Software Developer",
+			"startDate": "2004-07-01",
+			"endDate": "2005-06-30",
+			"highlights": [],
+			"summary": "Développement (C++/Qt) d'un logiciel interfacé avec différents microcontrôleurs et instruments de contrôle et de mesure.",
+			"url": "https://www.linkedin.com/company/infineon-technologies/"
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Ecole supérieure de Chimie Physique Electronique de Lyon",
+			"area": "Ingénierie informatique",
+			"studyType": "Diplôme d'ingénieur",
+			"startDate": "1999-09-01",
+			"endDate": "2006-06-30",
+			"score": "",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"certificates": [
+		{
+			"name": "Introduction to Git and GitHub",
+			"issuer": "Coursera",
+			"startDate": "2022-10-31",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/VKFSF8LCS2XV"
+		},
+		{
+			"name": "Start the UX Design Process: Empathize, Define, and Ideate",
+			"issuer": "Coursera",
+			"startDate": "2022-03-31",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/KFTAFTKG6GUK"
+		},
+		{
+			"name": "Foundations of User Experience (UX) Design",
+			"issuer": "Coursera",
+			"startDate": "2022-01-31",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/QNTJDWYSB9ZD"
+		},
+		{
+			"name": "Python Core",
+			"issuer": "Sololearn",
+			"startDate": "2017-11-30",
+			"url": "https://www.sololearn.com/certificates/CT-RSUO3NOK"
+		},
+		{
+			"name": "JavaScript",
+			"issuer": "Sololearn",
+			"startDate": "2019-05-31",
+			"url": "https://www.sololearn.com/certificates/CT-YYA495UX"
+		},
+		{
+			"name": "Maîtriser le shell Bash",
+			"issuer": "France Université Numérique",
+			"startDate": "2018-04-30",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_da5e15d06629548167e4e44db301bb93.pdf"
+		},
+		{
+			"name": "Fabriquer un objet connecté",
+			"issuer": "France Université Numérique",
+			"startDate": "2019-05-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04018+session04_d97cb22e3400cb69b9030d950962b890.pdf"
+		},
+		{
+			"name": "Mobilité 3.0",
+			"issuer": "France Université Numérique",
+			"startDate": "2019-05-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04015+session03_67ac83ac935a030b823eb59c98b92b52.pdf"
+		},
+		{
+			"name": "S'initier à la fabrication numérique",
+			"issuer": "France Université Numérique",
+			"startDate": "2019-07-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04026+session04_807c8e7bbb5a02393465687081d864bc.pdf"
+		},
+		{
+			"name": "Imprimer en 3D",
+			"issuer": "France Université Numérique",
+			"startDate": "2019-05-31",
+			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04021+session06_3db13d06533fb65f3c8a5f0257b9f5f2.pdf"
+		}
+	],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Team Management",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Software Project Management",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Software Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "SQL",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Dicma | Dictée et reconnaissance vocale | Productivité - QVCT - Inclusion |",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Scrum",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Gestion de projet",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JavaScript",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "C#",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Linux",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Développement de logiciel",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": ".NET",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Gestion de projet logiciel",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Java",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Intégration",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "SaaS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "ETL",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Management",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Services web",
+			"level": "",
+			"keywords": []
+		}
+	],
+	"languages": [
+		{
+			"fluency": "Elementary",
+			"language": "Alemand"
+		},
+		{
+			"fluency": "Full Professional",
+			"language": "Anglais"
+		},
+		{
+			"fluency": "Native Speaker",
+			"language": "Français"
+		}
+	],
+	"interests": [],
+	"references": [],
+	"projects": [],
+	"meta": {
+		"version": "v1.0.0",
+		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+		"theme": "elegant"
+	}
+}
