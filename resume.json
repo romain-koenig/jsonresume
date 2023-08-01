@@ -117,63 +117,75 @@
 	"awards": [],
 	"certificates": [
 		{
+			"name": "Effective Problem-Solving and Decision-Making",
+			"issuer": "Coursera",
+			"date": "2023-02-01",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/Q39SJTM3PB2U"
+		},
+		{
+			"name": "Impacts Environnementaux du numérique",
+			"issuer": "France Université Numérique",
+			"date": "2022-12-01",
+			"url": "https://openbadgefactory.com/v1/assertion/11f81b579609d050529d609648f70e5eb9796f62"
+		},
+		{
 			"name": "Introduction to Git and GitHub",
 			"issuer": "Coursera",
-			"startDate": "2022-10-31",
+			"date": "2022-10-31",
 			"url": "https://www.coursera.org/account/accomplishments/certificate/VKFSF8LCS2XV"
 		},
 		{
 			"name": "Start the UX Design Process: Empathize, Define, and Ideate",
 			"issuer": "Coursera",
-			"startDate": "2022-03-31",
+			"date": "2022-03-31",
 			"url": "https://www.coursera.org/account/accomplishments/certificate/KFTAFTKG6GUK"
 		},
 		{
 			"name": "Foundations of User Experience (UX) Design",
 			"issuer": "Coursera",
-			"startDate": "2022-01-31",
+			"date": "2022-01-31",
 			"url": "https://www.coursera.org/account/accomplishments/certificate/QNTJDWYSB9ZD"
 		},
 		{
 			"name": "Python Core",
 			"issuer": "Sololearn",
-			"startDate": "2017-11-30",
+			"date": "2017-11-30",
 			"url": "https://www.sololearn.com/certificates/CT-RSUO3NOK"
 		},
 		{
 			"name": "JavaScript",
 			"issuer": "Sololearn",
-			"startDate": "2019-05-31",
+			"date": "2019-05-31",
 			"url": "https://www.sololearn.com/certificates/CT-YYA495UX"
 		},
 		{
 			"name": "Maîtriser le shell Bash",
 			"issuer": "France Université Numérique",
-			"startDate": "2018-04-30",
+			"date": "2018-04-30",
 			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-reunion+128001+session01_da5e15d06629548167e4e44db301bb93.pdf"
 		},
 		{
 			"name": "Fabriquer un objet connecté",
 			"issuer": "France Université Numérique",
-			"startDate": "2019-05-31",
+			"date": "2019-05-31",
 			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04018+session04_d97cb22e3400cb69b9030d950962b890.pdf"
 		},
 		{
 			"name": "Mobilité 3.0",
 			"issuer": "France Université Numérique",
-			"startDate": "2019-05-31",
+			"date": "2019-05-31",
 			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04015+session03_67ac83ac935a030b823eb59c98b92b52.pdf"
 		},
 		{
 			"name": "S'initier à la fabrication numérique",
 			"issuer": "France Université Numérique",
-			"startDate": "2019-07-31",
+			"date": "2019-07-31",
 			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04026+session04_807c8e7bbb5a02393465687081d864bc.pdf"
 		},
 		{
 			"name": "Imprimer en 3D",
 			"issuer": "France Université Numérique",
-			"startDate": "2019-05-31",
+			"date": "2019-05-31",
 			"url": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04021+session06_3db13d06533fb65f3c8a5f0257b9f5f2.pdf"
 		}
 	],
