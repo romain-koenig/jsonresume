@@ -117,6 +117,12 @@
 	"awards": [],
 	"certificates": [
 		{
+			"name": "Getting Started with Go",
+			"issuer": "Coursera",
+			"date": "2023-08-01",
+			"url": "https://www.coursera.org/account/accomplishments/certificate/S3U4J7BLVYG3"
+		},
+		{
 			"name": "Effective Problem-Solving and Decision-Making",
 			"issuer": "Coursera",
 			"date": "2023-02-01",
