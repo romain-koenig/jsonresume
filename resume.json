@@ -7,7 +7,7 @@
 		"email": "romain@kromatic.fr",
 		"phone": "",
 		"url": "https://kromatic.fr",
-		"summary": "Passionné depuis toujours par les nouvelles technologies et convaincu de la valeur ajoutée qu’elles peuvent représenter pour notre société, je suis ingénieur en informatique depuis 15 ans.\n\nMon parcours varié m’a permis d’évoluer au sein de structures diverses, de la TPE au grand groupe et d’expérimenter les différents métiers de l’informatique (édition de progiciels, intégration de solutions, projets d’informatique interne, projets WWeb, management d'équipes).\n\nAu cours de ma carrière, j’ai toujours particulièrement apprécié servir mes clients organisés en structures à taille humaine. Professions libérales, jeunes pousses ou PME, j’aime découvrir l’univers de chacun et les aider à avancer dans leur dynamique malgré les nombreux obstacles qui se dressent sur leur chemin.\nMon constat ?\n\nDans de nombreuses TPE/PME, le système d’information évolue de manière anarchique.\n\nDe nombreux prestataires interviennent, mais chacun sur un périmètre restreint : infogérant, webmaster, community manager, éditeurs de progiciels (ERP, logiciel de comptabilité ou autres), fournisseur d’accès, de téléphonie ou encore de matériel d’impression…\n\nEt bien souvent, il manque une stratégie et une vision d’ensemble. Il n’y a ni schéma directeur, ni gestion de projets.\nLes sujets informatiques sont parfois délégués à des personnes dont ce n’est pas le métier, ce qui empiète sur leur quotidien. D’autres fois, on fait confiance à un prestataire qui est juge et partie, car il vend le conseil, le logiciel et le matériel…\n\nPourtant, la plupart des dirigeants de TPE / PME sont pleinement conscients des risques que représente une mauvaise gestion de leur système d’information. Beaucoup ont également l’intuition ou la conviction que l’informatique peut être un levier de performance essentiel pour leur société. Mais ce n’est pas leur métier, ils ont besoin d’un référent sur qui s’appuyer.\n\nVous vous reconnaissez ? Je suis là pour vous aider.\n",
+		"summary": "Indépendant depuis 2019, j'accompagner les entreprises dans leur transformation digitale. Avec une expérience de 19 ans dans le secteur informatique, dont 15 en gestion de projets, j'offre des services de conseil, développement, expertise en IA et solutions Low Code / No Code.\n",
 		"location": {
 			"countryCode": "FR",
 			"address": "France"
@@ -30,29 +30,28 @@
 			"name": "Kromatic",
 			"position": "Fondateur",
 			"startDate": "2019-09-01",
-			"summary": "Accompagnement de clients dans leurs projets informatiques / web. Voir Portfolio.",
-			"highlights": [
-				"Création de la structure Kromatic au sein de la Coopérative d'Activité Graines de SOL"
-			],
-			"url": "https://www.linkedin.com/company/kromatic-fr/",
+			"summary": "Accompagnement de clients (associations, indépendants, PME, grands groupes) dans leurs projets informatiques / web / transformation digitale.\n\nAccompagnement à la mise en place de démarche écoresponsable dans le numérique.\n\nDéveloppement d'une expertise sur les sujets No Code / Low Code / Automation / IA",
+			"highlights": [],
+			"url": "https://kromatic.fr",
 			"location": "Région de Lyon, France"
 		},
 		{
 			"name": "Pernod Ricard",
-			"position": "IT Project Manager",
+			"position": "IT Project Manager / PMO",
 			"startDate": "2020-09-01",
 			"highlights": [],
-			"summary": "Coordination des projets de l'équipe IT Architecture.",
+			"summary": "PMO - Coordination des projets de l'équipe Platform Architecture.\nAnimation de la communauté des architectes (HQ / France)\nProduction et diffusion d'une newsletter interne pour le management de l'équipe TECH (ex IT) et les chefs de projets fonctionnels, pour expliquer les actions en cours de l'équipe Platform Architecture, tout en vulgarisant les aspects trop techniques\nPilotage de l'activité de support sur les thématiques DevOps & Observability\nDéveloppement outillage interne (Stack technique JS et outils No Code / Low Code)\n\nEnvironnement de travail national (Paris, Reims, Cognac, Marseille) et international (US, Europe, Asie), en anglais.",
 			"url": "https://www.linkedin.com/company/pernod-ricard/",
 			"location": "Lyon, Auvergne-Rhône-Alpes, France"
 		},
 		{
-			"name": "FIDUCIAL",
-			"position": "Responsable des Professional Services",
+			"name": "FIDUCIAL Informatique",
+			"position": "Responsable des Professional Services / Chef de projets R&D",
 			"startDate": "2018-09-01",
 			"endDate": "2019-04-30",
+			"summary": "Responsable de l'équipe de développement du progiciel Signature. Mise en place de méthodologies Agiles.\n Reporting auprès de la direction générale.",
 			"highlights": [],
-			"url": "https://www.linkedin.com/company/fiducial/",
+			"url": "https://www.linkedin.com/company/fiducial-informatique",
 			"location": "Région de Lyon, France"
 		},
 		{
@@ -213,17 +212,12 @@
 			"keywords": []
 		},
 		{
-			"name": "SQL",
+			"name": "NoCode / Low Code (Airtable / Notion / Make.com / N8N...)",
 			"level": "",
 			"keywords": []
 		},
 		{
-			"name": "Dicma | Dictée et reconnaissance vocale | Productivité - QVCT - Inclusion |",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Scrum",
+			"name": "IA (OpenAI integrations, LLM, Machine Learning basics)",
 			"level": "",
 			"keywords": []
 		},
@@ -233,12 +227,7 @@
 			"keywords": []
 		},
 		{
-			"name": "JavaScript",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "C#",
+			"name": "JavaScript (Node, React, Next...)",
 			"level": "",
 			"keywords": []
 		},
@@ -248,56 +237,12 @@
 			"keywords": []
 		},
 		{
-			"name": "Développement de logiciel",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": ".NET",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Gestion de projet logiciel",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Java",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Intégration",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "SaaS",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "ETL",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Management",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Services web",
+			"name": "Software Integration",
 			"level": "",
 			"keywords": []
 		}
 	],
 	"languages": [
-		{
-			"fluency": "Elementary",
-			"language": "Alemand"
-		},
 		{
 			"fluency": "Full Professional",
 			"language": "Anglais"
